@@ -1,0 +1,116 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-primary{
+      background-color:#117cff;
+    }
+
+.skillContent{
+    width: 580px;
+    display:flex;
+    
+    align-items: center;
+
+
+   
+
+}
+
+
+@media screen and (max-width:480px){
+  
+  .skillContent{
+    width:auto;
+  }
+
+}
+.skills{
+    
+    display:inline-block;
+    background-color: azure;
+    color:black;
+    width: fit-content;
+    height:fit-content;
+    border-radius:5px;  
+    font-size: 13px;
+    font-weight: bold;
+    margin:20px 10px;
+    padding:10px;
+   
+
+}
+
+.skills:hover{
+    
+    background-color:#ff0000;
+    color: #ffff;
+    border: 4px solid white;
+}
+
+
+.card{
+  display:flex;
+  justify-content:space-evenly;
+  flex-wrap: wrap;
+  gap: 25px;
+}
+.card1{
+
+  width: 300px;
+  padding: 20px;
+  font-size: medium;
+  margin: 20px;
+  border-radius:10px;
+  color:#000000;
+  border: 0.1px solid #ffffff;
+  background-color: #ffffff;
+
+}
+
+
+
+.card p{
+  padding:2px;
+
+  color: rgb(108, 108, 108);
+}
+.card img{
+  height: 200px;
+  margin-bottom: 5px;
+  border-radius:14px;
+}
+
+
+
+
+.btnProject{
+ 
+  font-size: 16px;
+  padding: 10px 20px;
+  background-color:transparent;
+  border: 2px solid rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  margin-top: 10px;
+  font-weight:bold;
+  border-radius: 9px;
+  cursor:pointer;
+}
+
+.btnProject:hover{
+  border-color:#ffffff ;
+  background-color:#0316e2;
+  color:#ffffff;
+
+}
+
+.mobileNav{
+  @apply fixed top-0 left-0 bg-white bg-opacity-85 text-black w-full h-1/2  py-20 px-52;
+}
+
+
+
+
+html{
+  scroll-behavior: smooth;
+}
