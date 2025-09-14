@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/dortfolio/static/css/main.85bc7a24.css",
-    "main.js": "/dortfolio/static/js/main.cd9aeb8c.js",
-    "static/media/iBon.jpg": "/dortfolio/static/media/iBon.37086db77f71cafffab8.jpg",
-    "static/media/tempQ.jpg": "/dortfolio/static/media/tempQ.3831664238fa5fba3fdc.jpg",
-    "static/media/Hero.png": "/dortfolio/static/media/Hero.b4ac5e57b88578b68c41.png",
-    "static/media/port.jpg": "/dortfolio/static/media/port.04e31791a3c2320ace98.jpg",
-    "index.html": "/dortfolio/index.html",
-    "main.85bc7a24.css.map": "/dortfolio/static/css/main.85bc7a24.css.map",
-    "main.cd9aeb8c.js.map": "/dortfolio/static/js/main.cd9aeb8c.js.map"
+    "main.css": "/Dort-folio/static/css/main.85bc7a24.css",
+    "main.js": "/Dort-folio/static/js/main.29288a53.js",
+    "static/media/iBon.jpg": "/Dort-folio/static/media/iBon.37086db77f71cafffab8.jpg",
+    "static/media/tempQ.jpg": "/Dort-folio/static/media/tempQ.3831664238fa5fba3fdc.jpg",
+    "static/media/Hero.png": "/Dort-folio/static/media/Hero.b4ac5e57b88578b68c41.png",
+    "static/media/port.jpg": "/Dort-folio/static/media/port.04e31791a3c2320ace98.jpg",
+    "index.html": "/Dort-folio/index.html",
+    "main.85bc7a24.css.map": "/Dort-folio/static/css/main.85bc7a24.css.map",
+    "main.29288a53.js.map": "/Dort-folio/static/js/main.29288a53.js.map"
   },
   "entrypoints": [
     "static/css/main.85bc7a24.css",
-    "static/js/main.cd9aeb8c.js"
+    "static/js/main.29288a53.js"
   ]
 }
