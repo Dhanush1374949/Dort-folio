@@ -15,7 +15,7 @@ export default function Project() {
                         <h4>Portfolio website</h4>
                         <p><b>Description:</b> <br/>
                          Developed a fully responsive e-commerce platform for Laura Cosmetics, focusing on delivering a seamless online shopping experience for beauty and skincare products. The website features an elegant UI with intuitive navigation, product categorization, and a secure checkout process.</p>
-                         <button  onClick={ () => window.open('https://github.com/Dhanush1374949/portfolio', '_blank')}  className="btnProject">Code</button>
+                         <button  onClick={ () => window.open('https://github.com/Dhanush1374949/Dort-folio', '_blank')}  className="btnProject">Code</button>
                     </div>
                     <div className="card1">
                         <img src={tempQ} alt="img" width={"300px"} height={"200px"}/>
