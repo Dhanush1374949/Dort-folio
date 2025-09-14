@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Dort-folio/static/css/main.85bc7a24.css",
-    "main.js": "/Dort-folio/static/js/main.a40d919d.js",
+    "main.css": "/Dort-folio/static/css/main.ab05d320.css",
+    "main.js": "/Dort-folio/static/js/main.728e4d13.js",
     "static/media/iBon.jpg": "/Dort-folio/static/media/iBon.37086db77f71cafffab8.jpg",
     "static/media/tempQ.jpg": "/Dort-folio/static/media/tempQ.3831664238fa5fba3fdc.jpg",
     "static/media/Hero.png": "/Dort-folio/static/media/Hero.b4ac5e57b88578b68c41.png",
     "static/media/port.jpg": "/Dort-folio/static/media/port.04e31791a3c2320ace98.jpg",
     "index.html": "/Dort-folio/index.html",
-    "main.85bc7a24.css.map": "/Dort-folio/static/css/main.85bc7a24.css.map",
-    "main.a40d919d.js.map": "/Dort-folio/static/js/main.a40d919d.js.map"
+    "main.ab05d320.css.map": "/Dort-folio/static/css/main.ab05d320.css.map",
+    "main.728e4d13.js.map": "/Dort-folio/static/js/main.728e4d13.js.map"
   },
   "entrypoints": [
-    "static/css/main.85bc7a24.css",
-    "static/js/main.a40d919d.js"
+    "static/css/main.ab05d320.css",
+    "static/js/main.728e4d13.js"
   ]
 }
