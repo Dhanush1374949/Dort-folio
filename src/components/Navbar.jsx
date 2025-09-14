@@ -4,7 +4,7 @@ export default function Navbar(){
   const[toggleMenu, setToggleMenu]=useState(false);
     return(
         <div>
-          <header className="flex justify-between items-center p-5 px-11 bg-primary text-white">
+          <header className="flex justify-between fixed top-0 md:static items-center p-4 md:px-11  w-full bg-primary text-white">
             <name className="font-bold">
                 <a href="#">Dhanush M</a>
             </name>
